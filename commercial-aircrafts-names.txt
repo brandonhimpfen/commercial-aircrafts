@@ -1,0 +1,317 @@
+﻿Fokker 100
+British Aerospace BAe 146-100
+British Aerospace BAe 146-200
+British Aerospace BAe 146-300
+British Aerospace BAe 146
+British Aerospace BAe 146 Freighter
+British Aerospace BAe 146-100QT/QC
+British Aerospace BAe 146-200QT/QC
+British Aerospace BAe 146-300QT/QC
+Airbus Industrie A310
+Airbus Industrie A310-200
+Airbus Industrie A310-300
+Airbus Industrie A318
+Airbus Industrie A319
+Airbus Industrie A310 Freighter
+Airbus Industrie A310-200 Freighter
+Airbus Industrie A310-300 Freighter
+Airbus Industrie A320
+Airbus Industrie A321
+Airbus Industrie A320-200 (Sharklets)
+Airbus Industrie A318/319/320/321
+Airbus Industrie A330
+Airbus Industrie A330-200
+Airbus Industrie A330-300
+Airbus Industrie A340
+Airbus Industrie A340-200
+Airbus Industrie A340-300
+Airbus Industrie A340-500
+Airbus Industrie A340-600
+Airbus Industrie A380
+Airbus Industrie A380-800
+Airbus Industrie A380 Freighter
+Boeing 707-300
+Boeing 707/720
+Boeing 707-300 Freighter
+Boeing 707-300 Combi
+Boeing 717-200
+Boeing 727-100
+Boeing 727-200
+Boeing 727
+Boeing 727-200 Advanced
+Boeing 727-100 Combi
+Boeing 727-200 Combi
+Boeing 727 Freighter
+Boeing 727 Combi
+Boeing 727-200
+Boeing 727-100 Freighter
+Boeing 727-200 Freighter
+Boeing 737-100
+Boeing 737-200
+Boeing 737-300
+Boeing 737-400
+Boeing 737-500
+Boeing 737-600
+Boeing 737
+Boeing 737-800
+Boeing 737-900
+Boeing 737-200/200C Advanced
+Boeing 737-300
+Boeing 737-900ER
+Boeing 737 Freighter
+Boeing 737-700
+Boeing 737-800 With Winglets
+Boeing 737-900 With Winglets
+Boeing 737-300 Mixed Config
+Boeing 737-200 Combi
+Boeing 737-400 Freighter
+Boeing 737-400 Mixed Config
+Boeing 737 Advanced
+Boeing 737-700 With Winglets
+Boeing 737-200 Freighter
+Boeing 737-300 Freighter
+Boeing 747-100
+Boeing 747-200
+Boeing 747-300 (including -100SUD and -200SUD)
+Boeing 747-400
+Boeing 747
+Boeing 747-200 Combi
+Boeing 747-300 Combi (including -200SUD)
+Boeing 747 Freighter
+Boeing 747-400 Combi
+Boeing 747-8 Intercontinental
+Boeing 747-400 Domestic
+Boeing 747SP
+Boeing 747 Combi
+Boeing 747-100 Freighter
+Boeing 747-300 Freighter
+Boeing 747SR Freighter
+Boeing 747-200 Freighter
+Boeing 747-400 Freighter
+Boeing 757-200
+Boeing 757-300
+Boeing 757-300 With Winglets
+Boeing 757-200 With Winglets
+Boeing 757
+Boeing 757-200 Freighter
+Boeing 757-200 Combi
+Boeing 767-200
+Boeing 767-300
+Boeing 767-400
+Boeing 767
+Boeing 767 Freighter
+Boeing 767 Winglets
+Boeing 767-200 Freighter
+Boeing 767-300 Freighter
+Boeing 777-200/200ER
+Boeing 777-300
+Boeing 777
+Boeing 777-200LR
+Boeing 777-300ER
+Boeing 787
+Boeing 787-8
+Antonov An-26
+Antonov An-28
+Antonov An-30
+Antonov An-32
+Antonov An-140
+Antonov An-124 Ruslan
+Antonov An-148-100
+Airbus Industrie A300
+Airbus Industrie A300B2/B4/C4
+Airbus Industrie A300-600
+Airbus Industrie A300-600ST Beluga
+Airbus Industrie A300 Freighter
+Airbus Industrie A300B4/C4/F4 Freighter
+Airbus Industrie A300-600 Freighter
+Twin Aero Commander/Turbo/Jetprop
+Agusta A109
+Antonov An-24
+Antonov An-26/30/32
+Antonov An-72/74
+Antonov An-12
+Avro RJ100 Avroliner
+Avro RJ70 Avroliner
+Avro RJ85 Avroliner
+Avro RJ Avroliner
+Avro RJX
+Aerospatiale/Alenia ATR 42-300/320
+Aerospatiale/Alenia ATR 42-500
+Aerospatiale/Alenia ATR 72
+British Aerospace ATP
+Aerospatiale/Alenia ATR
+Avro RJX100
+Avro RJX85
+British Aerospace BAC One Eleven
+British Aerospace BAC One Eleven 200
+British Aerospace BAC One Eleven 300
+British Aerospace BAC One Eleven 400
+British Aerospace BAC One Eleven 500
+Boeing 720B
+Beechcraft Beech 1900
+Beechcraft twin piston
+Beechcraft Airliner 99
+Beechcraft Light Aircraft
+Beechcraft Beech 1900D
+Beechcraft Beech 1900C
+Beechcraft Light Aircraft Twin Prop
+Bell Helicopters
+Pilatus Britten-Norman BN-2A/B
+Pilatus Britten-Norman BN-2A Trislander
+Non Aircraft - Bus
+Canadair Challenger
+Government Aircraft Factories N22B/N24A Nomad
+Cessna light aircraft - single piston engine
+Cessna Light Aircraft
+Cessna light aircraft - single turboprop engine
+Cessna Citation
+Cessna light aircraft - twin turboprop engines
+Canadair Regional Jet 100
+Canadair Regional Jet 200
+Canadair Regional Jet 700
+Canadair Regional Jet 900
+Canadair Regional Jet 705
+Canadair Regional Jet
+Aerospatiale/SUD SE210 Caravelle
+CASA/IPTN CN-212 Aviocar
+CASA/IPTN CN-235
+Convair 580
+Convair 580/600/640 Freighter
+Curtiss C-46 Commando
+Convair 240/440/580
+Boeing/McDonnell Douglas DC-10
+Boeing/McDonnell Douglas DC-10-10/15
+Boeing/McDonnell Douglas DC-10-30/40
+Boeing/McDonnell Douglas DC-10 Freighter
+Boeing/McDonnell Douglas DC-10-10 Freighter
+Boeing/McDonnell Douglas DC-10-30/40 Freighter
+Fairchild Dornier Do-228
+Fairchild Dornier Do-328
+Boeing/Douglas DC-3 Freighter
+Boeing/Douglas DC-6A/B/C Freighter
+Boeing/McDonnell Douglas DC-8 Freighter
+Boeing/McDonnell Douglas DC-8-62
+Boeing/McDonnell Douglas DC-8 Combi
+Boeing/McDonnell Douglas DC-8-72
+Boeing/McDonnell Douglas DC-8-50 Freighter
+Boeing/McDonnell Douglas DC-8-61/62/63 Freighter
+Boeing/McDonnell Douglas DC-8-71/72/73 Freighter
+Boeing/McDonnell Douglas DC-9-10
+Boeing/McDonnell Douglas DC-9-20
+Boeing/McDonnell Douglas DC-9-30
+Boeing/McDonnell Douglas DC-9-40
+Boeing/McDonnell Douglas DC-9-50
+Boeing/McDonnell Douglas DC-9-30 Freighter
+Boeing/McDonnell Douglas DC-9-40 Freighter
+Boeing/McDonnell Douglas DC-9-30/40/50
+Boeing/McDonnell Douglas DC-9-10 Freighter
+Boeing/Douglas DC-3
+Boeing/Douglas DC-6
+Boeing/McDonnell Douglas DC-8
+Boeing/McDonnell Douglas DC-9
+Boeing/McDonnell Douglas DC-9 Freighter
+De Havilland Canada DHC-8-100 Dash 8/8Q
+De Havilland Canada DHC-8-200 Dash 8/8Q
+De Havilland Canada DHC-8-300 Dash 8/8Q
+De Havilland Canada DHC-8-400 Dash 8/8Q
+De Havilland Canada DHC-7 Dash 7
+De Havilland Canada DHC-8 Dash 8 All S.
+De Havilland Canada DHC-4 Caribou
+De Havilland Canada DHC-3 Turbo Otter
+De Havilland Canada DHC-2 Beaver
+De Havilland Canada DHC-3 Otter
+De Havilland Canada DHC-6 Twin Otter
+Embraer ERJ-170
+Embraer ERJ-175
+Embraer ERJ-190
+Embraer ERJ-195
+Embraer EMB-120 Brasilia
+Embraer E190
+Embraer EMB-110 Bandeirante
+Embraer ERJ-170/190
+Embraer ERJ-135 Regional Jet
+Embraer ERJ-145 Regional Jet
+Embraer ERJ-140 Regional Jet
+Embraer ERJ-135/140/145 Regional Jet
+Fokker F28 Fellowship 1000
+Fokker F28 Fellowship 2000
+Fokker F28 Fellowship 3000
+Fokker F28 Fellowship 4000
+Fokker F27 Friendship/Fairchild F27
+Fokker F28 Fellowship
+Fokker 50
+Fokker 70
+Fairchild Dornier 728JET
+Fairchild FH227
+Fairchild Dornier 328JET
+Grumman G-21 Goose
+Grumman G-73 Turbo Mallard
+Helio H-250 Courier/H-295/395 Super Courier
+British Aerospace/Hawker Siddeley HS748
+Ilyushin IL-114
+Ilyushin IL-96-300
+Ilyushin IL-96 Freighter
+Ilyushin IL-96M
+Ilyushin IL-96T
+Ilyushin IL-62
+Ilyushin IL-76
+Ilyushin IL-18
+Ilyushin IL-96
+Ilyushin IL-86
+British Aerospace Jetstream 31
+British Aerospace Jetstream 32
+British Aerospace Jetstream 41
+British Aerospace Jetstream 31/32/41
+Junkers Ju52
+Lockheed L-1011 Tristar
+Lockheed L-1011-1/50/100/150/200/250
+Lockheed L-1011-500 Tristar
+Lockheed L-1011 Tristar Freighter
+Let 410 Turbolet
+Non Aircraft - Launch/Boat
+Non Aircraft - Limousine
+Lockheed L-188 Electra
+Lockheed L-100 Hercules
+Learjet
+Boeing/McDonnell Douglas MD-11
+Boeing/McDonnell Douglas MD-11 Freighter
+Boeing/McDonnell Douglas MD-11 Combi
+Boeing/McDonnell Douglas MD-80
+Boeing/McDonnell Douglas MD-81
+Boeing/McDonnell Douglas MD-82
+Boeing/McDonnell Douglas MD-83
+Boeing/McDonnell Douglas MD-87
+Boeing/McDonnell Douglas MD-88
+Boeing/McDonnell Douglas MD-90
+Mil
+Mitsubishi MU-2
+Aerospatiale/Nord 262
+Aerospatiale SN601 Corvette
+Aerospatiale/Eurocopter Ecureuil AS350/AS355
+Piper light aircraft - single piston engine
+Piper light aircraft - twin piston engines
+Piper Light Aircraft
+Pilatus PC-12
+Partenavia P68
+Saab 2000
+Saab SF-340
+Saab SF-340B
+Aerospatiale/British Aerospace Concorde (discontinued)
+Shorts SD-330
+Shorts SD-360
+Sikorsky S-58T
+Sikorsky S-61
+Sikorsky S-76
+Sukhoi Superjet 100
+Fairchild Metro/Merlin
+Tupolev Tu-204/214
+Tupolev Tu-134
+Tupolev Tu-154
+Non Aircraft - Train
+Vickers Viscount
+Israel Aircraft Industries 1124 Westwind
+Yakovlev Yak-42
+Yakovlev Yak-40
+Yunshuji Y-12/Xian Y-12
+Yunshuji Y-7/Harbin Y-7
+NAMC YS-11
